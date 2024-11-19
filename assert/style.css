@@ -1,0 +1,93 @@
+/* general section */
+
+@font-face {
+    font-family: 'vaziri-bold';
+    src: url(/assert/fonts/vazir-font-v16.1.0/Vazir-Bold.woff2);
+}
+
+@font-face {
+    font-family: "vaziri-light";
+    src: url(/assert/fonts/vazir-font-v16.1.0/Vazir-Light.woff);
+}
+
+@font-face {
+    font-family: 'lalezar';
+    src: url(./assert/fonts/Lalezar-Font/OTF/Lalezar-Regular.otf);
+}
+
+
+
+/* nav style */
+
+nav{
+    font-family:'vaziri-bold' ;
+}
+.mylogo{
+    margin-right: 100px;
+    background-color: aqua;
+}
+
+.my-app{
+    padding-left: 40px;
+    font-size: 10px;
+}
+
+
+
+.nav-icon{
+    border: none;
+}
+
+/* header body style */
+
+.container1{
+    height: auto;
+    background-color: #FFFFFF;
+}
+
+.row .col{
+    height: 600px;
+    padding: 25px;
+    text-align: center;
+}
+
+.myimg{
+   margin-left: 300px;
+
+}
+
+.content-header{
+    
+    text-align: right;
+    margin-right: 200px;
+    margin-top: 40px;
+    padding: 20px;
+    width: 700px;
+  
+  
+}
+
+.content-header h2{
+    font-size: 46px;
+    font-weight: bold;
+    margin-right: 50px;
+}
+
+.content-header h2 span{
+    color: #29CC88;
+
+}
+
+.content-header p{
+    font-size: 20px;
+    font-weight: 600;
+    color: #636363;
+    margin-right: 50px;
+}
+
+.P-titel{
+padding-top: 14px;
+
+
+}
+
